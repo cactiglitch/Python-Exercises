@@ -1,5 +1,5 @@
 """
-Let's talk about Will SMith.
+Let's talk about Will Smith.
 He's 74 inches tall.
 He's 180 pounds heavy.
 He's got Blue eyes and Brown hair.
@@ -7,7 +7,7 @@ His teeth are usually White depending on the coffee.
 If I add 35, 74, and 180, I get 289.
 """
 
-name = 'Will SMith'
+name = 'Will Smith'
 age = 35
 height = 74
 weight = 180
